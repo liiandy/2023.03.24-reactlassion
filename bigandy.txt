@@ -16,4 +16,8 @@ git log        		4. 查詢目前倉庫狀態
 
 
 
-git push             3. 放上github
+git push             5. 放上github
+
+
+
+git pull           6.更新修改內容
