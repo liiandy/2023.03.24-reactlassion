@@ -1,1 +1,19 @@
-哈囉andy 
+git add "文件名" 
+ 			1. 將文件放入箱子
+git add .
+
+
+
+git commit -m "敘述修改內容"    2. 將箱子放入倉庫
+
+
+
+git status		3. 查詢目前箱子的狀態
+
+
+
+git log        		4. 查詢目前倉庫狀態
+
+
+
+git push             3. 放上github
